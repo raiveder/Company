@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Company</string>
+    <string name="login">Логин</string>
+    <string name="password">Пароль</string>
+    <string name="newpassword">Новый пароль</string>
+    <string name="entry">Войти</string>
+    <string name="reg">Регистрация</string>
+    <string name="change">Сменить пароль</string>
+    <string name="set">Принять</string>
+    <string name="surname">Фамилия</string>
+    <string name="name">Имя</string>
+    <string name="patronimyc">Отчество</string>
+    <string name="age">Возраст</string>
+    <string name="dolgnost">Должность</string>
+    <string name="add">Add</string>
+    <string name="clear">Clear</string>
+    <string name="show">Show</string>
+    <string name="back">Back</string>
+    <string name="backrus">Назад</string>
+    <string name="stat">Статистика</string>
+    <string name="employees">Сотрудники</string>
+    <string name="item">Товары</string>
+    <string name="product">Наименование</string>
+    <string name="article">Артикул</string>
+    <string name="count">Количество</string>
+</resources>
