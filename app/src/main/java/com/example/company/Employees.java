@@ -108,7 +108,7 @@ public class Employees extends AppCompatActivity implements View.OnClickListener
                 TextView outputFIO = new TextView(this);
                 params.weight = 3.0f;
                 outputFIO.setLayoutParams(params);
-                outputFIO.setText(cursor.getString(surnameIndex) + ". " + cursor.getString(nameIndex).substring(0, 1) + ". " + cursor.getString(patronymicIndex).substring(0, 1) + ".");
+                outputFIO.setText(cursor.getString(surnameIndex) + " " + cursor.getString(nameIndex).substring(0, 1) + ". " + cursor.getString(patronymicIndex).substring(0, 1) + ".");
                 dbOutputRow.addView(outputFIO);
 
                 TextView outputAge = new TextView(this);
